@@ -61,7 +61,7 @@ p, ul, ol {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
-  color: #000;
+  color: #fff;
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 30px 0;
@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: block;
 }
 .fh5co-navigation .fh5co-cover .copy .display-t, .fh5co-navigation .fh5co-cover .copy .display-tc {
-  height: 400px;
+  height: 340px;
   display: table;
   width: 100%;
 }
@@ -332,7 +332,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .single #fh5co-aside {
   position: relative;
-  height: 535px;
+  height: 400px;
   width: 100%;
 }
 #fh5co-aside a {
